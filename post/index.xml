@@ -6,7 +6,21 @@
     <description>Recent content in Posts on Jess Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 May 2022 08:49:02 +0800</lastBuildDate><atom:link href="https://jessyu-1011.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jun 2022 22:33:12 +0800</lastBuildDate><atom:link href="https://jessyu-1011.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flask Tutorial [1]</title>
+      <link>https://jessyu-1011.github.io/post/flask-tutorial1/</link>
+      <pubDate>Thu, 02 Jun 2022 22:33:12 +0800</pubDate>
+      
+      <guid>https://jessyu-1011.github.io/post/flask-tutorial1/</guid>
+      
+        <description>If you want to learn flask by developing a project by yourself, this tutorial will be helpful to you.
+This tutorial covered with
+Flask introduction How Flask works How to use Flask Plugin Flask-SQLAlchemy Flask-WTF Flask-Bootstrap Install a Python 3.6 up interpreter And we are going to use these things to create a simple posting web application
+Prerequired Basic Python knowledges Basic shell commands (cd, mkdir, rm&amp;hellip;.) Basic Object Oriented Program knowledges Maybe some HTML basis Flask Introduction Flask is a web framework written in Python.</description>
+      
+    </item>
+    
     <item>
       <title>Blog</title>
       <link>https://jessyu-1011.github.io/post/blog/</link>
